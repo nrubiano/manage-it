@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="" alt="Manage-It" width="200">
+  <img src="https://github.com/nrubiano/manage-it/blob/main/app/img/logo.png?raw=true" alt="Manage-It" width="200">
   <br>
   Manage It
   <br>
